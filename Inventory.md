@@ -3,3 +3,4 @@
 - Laptop
 - Desktop
 - Printer
+- Conference Room
